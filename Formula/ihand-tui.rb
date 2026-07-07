@@ -1,8 +1,8 @@
 class IhandTui < Formula
-  desc "AI Chat in Your Terminal — Full-screen TUI with multi-LLM support"
+  desc "AI Chat in Your Terminal — Full-screen TUI with multi-LLM support, file ops, and exec"
   homepage "https://github.com/bachtiarpanjaitan/ihand-tui"
-  url "https://github.com/bachtiarpanjaitan/ihand-tui/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "52bd2c5f33ac24e54564d9e12b8780551d956a2941afdef4bccaa241f3a62ea7"
+  url "https://github.com/bachtiarpanjaitan/ihand-tui/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "dbbf1ce63ad472e06a2a42b0f5c4f60bb9cb87608655b5b915543fd53945be1d"
   license "MIT"
 
   depends_on "go" => :build
